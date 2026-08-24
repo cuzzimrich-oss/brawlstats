@@ -1,0 +1,15 @@
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# Maven / Spring Boot
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
